@@ -71,7 +71,26 @@ h2 {
 .second-img {
     margin-top: 50px;
 }
+.workpage-wrapper {
+    margin: 40px;
+    padding: 15px 40px;
+    border: 1px hidden;
+    border-radius: 10px;
+    background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
 
+.work-box {
+    font-family: var(--third-font);
+    font-size: 35px;
+}
+
+.worktogether {
+    font-family: var(--first-font);
+    font-size: 15px;
+}
+.emoji {
+    font-size: 25px;
+}
 @media (max-width:1200px) {
     .translation-wrapper {
         margin-top: 50px;
